@@ -4,20 +4,22 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanmohan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMm3fNTIcTsaCwjA6CCFiOQ%3D%3D)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-1abc9c?style=flat&logo=google-chrome&logoColor=white)]()
 [![Resume Badge](https://img.shields.io/badge/-Resume-34495e?style=flat&logo=adobe-acrobat-reader&logoColor=white)]()
-[![SkillRack Badge](https://img.shields.io/badge/-SkillRack-blue?style=flat&logo=codeforces&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=444147&key=Skillrackresume430) 
+[![SkillRack Badge](https://img.shields.io/badge/-SkillRack-blue?style=flat&logo=codeforces&logoColor=white)]() 
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)]()
 [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=gmail&logoColor=white)](mailto:mohan993467@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/917448608862)
 
+
 </div>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<hr>
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 - 💻 Aspiring Java Developer
 - 👨‍💻 Front-end Developer 
 - 🤝 Open to collaborate for projects & works
+  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 <hr>
 
@@ -29,69 +31,7 @@
 
 <hr>
 
-<div align="center">
-  <h3>💡 Futured Projects</h3>
-<table align="center">
-  <tr>
-    <td><strong>My Portfolio Website</strong></td>
-    <td>
-      <a href="https://m-dinesh-30.web.app/">
-        <img src="https://img.shields.io/badge/VIEW DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Portfolio">
-      </a>
-      <a href="https://github.com/dineshit27/portfolio-web-pvt">
-        <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-    </td>
-  </tr>
 
-  <tr>
-    <td><strong>Aquawatt Solutions</strong></td>
-    <td>
-      <a href="https://aquawatt-org.web.app/">
-        <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Aquawatt Website">
-      </a>
-      <a href="https://github.com/dineshit27/aquawatt-org">
-        <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>AI Powered Brain Tumour Detector</strong></td>
-    <td>
-      <a href="https://tumour-spotter-ai.lovable.app/">
-        <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Website">
-      </a>
-      <a href="https://github.com/dineshit27/tumour-spotter-ai">
-        <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>FoodieHub430</strong></td>
-    <td>
-      <a href="https://foodie-hub430.netlify.app/about_us">
-        <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View Website">
-      </a>
-      <a href="https://github.com/dineshit27/FoodieHub430">
-        <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>JDM Studio430 Website</strong></td>
-    <td>
-      <a href="https://jdm-studio430.netlify.app/">
-        <img src="https://img.shields.io/badge/LIVE DEMO-blue?style=flat&logo=google-chrome&logoColor=white" alt="View JDM Studio430">
-      </a>
-      <a href="https://github.com/dineshit27/jdm-studio430-website">
-        <img src="https://img.shields.io/badge/REPOSITORY-red?style=flat&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 <hr>
@@ -107,9 +47,9 @@
 <div align="center">
   <h3>👨‍💻 Leetcode Stats</h3>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dinesh_coder30?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats">
-</p>
+
+ [![LeetCode Stats](https://leetcard.jacoblin.cool/mohan7013?theme=dark&font=Marcellus&ext=heatmap)](https://leetcode.com/mohan7013
+
 
 <hr>
 
