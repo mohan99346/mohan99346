@@ -39,7 +39,7 @@
 <div align="center">
   <h3>🤖 Github Stats</h3>
   
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan99346&theme)
+![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan99346&theme)
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan99346&layout=compact&&langs_count=8"/>
 
 <hr>
@@ -48,8 +48,7 @@
   <h3>👨‍💻 Leetcode Stats</h3>
 
 
- [![LeetCode Stats](https://leetcard.jacoblin.cool/mohan7013?theme=dark&font=Marcellus&ext=heatmap)](https://leetcode.com/mohan7013
-
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/mohan7013?theme=dark&font=Marcellus&ext=heatmap)
 
 <hr>
 
