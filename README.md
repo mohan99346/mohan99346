@@ -14,12 +14,19 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <hr >
+  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 
 - 💻 Aspiring Java Developer
 - 👨‍💻 Front-end Developer 
 - 🤝 Open to collaborate for projects & works
-  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+
+
+
+
+
+
+
 
 <hr>
 
