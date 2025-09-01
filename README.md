@@ -11,22 +11,21 @@
 
 </div>
 
------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 - 💻 Aspiring Java Developer
 - 👨‍💻 Front-end Developer 
 - 🤝 Open to collaborate for projects & works
-- 📑 Work Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/Projects-25-blue?logo=linkedin) ![LinkedIn Followers](https://img.shields.io/badge/Client_Satisfied-78%25-blue?logo=linkedin)
-- 🤖 My Digital Stats :<br>![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-7k+-blue?logo=linkedin) ![Total Views](https://img.shields.io/badge/Viewers-5k+-blue?logo=github) ![Total Stars](https://img.shields.io/badge/Stars-500-blue?logo=github)
+
 <hr>
 
 
 <div align="center">
   <h3>⚙️ Tech Skills</h3>
   
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?logo=openai&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?logo=openai&logoColor=white)
 
 <hr>
 
@@ -100,8 +99,8 @@
 <div align="center">
   <h3>🤖 Github Stats</h3>
   
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshit27&theme)
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshit27&layout=compact&&langs_count=8"/>
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan99346&theme)
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan99346&layout=compact&&langs_count=8"/>
 
 <hr>
 
